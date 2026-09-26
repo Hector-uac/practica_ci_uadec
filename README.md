@@ -1,3 +1,4 @@
+[![Pipeline de Integración Continua (CI)](https://github.com/Hector-uac/practica_ci_uadec/actions/workflows/ci.yml/badge.svg)](https://github.com/Hector-uac/practica_ci_uadec/actions/workflows/ci.yml)
 # 🏭 Práctica 3.1: Integración Continua (CI) y Pipelines Automatizados con GitHub Actions
 
 ![CI Pipeline](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge&logo=githubactions&logoColor=white)
